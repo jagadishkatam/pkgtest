@@ -7,7 +7,7 @@
 
 [![CRAN
 status](https://www.r-pkg.org/badges/version/pkgtest)](https://CRAN.R-project.org/package=pkgtest)
-\[![Codecov](https://img.shields.io/codecov/c/github/jagadishkatam/pkgtest)\]
+![Codecov](https://img.shields.io/codecov/c/github/jagadishkatam/pkgtest)
 
 <!-- badges: end -->
 
