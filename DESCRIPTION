@@ -17,3 +17,5 @@ Imports:
     dplyr,
     magrittr,
     rlang
+URL: https://github.com/jagadishkatam/pkgtest
+BugReports: https://github.com/jagadishkatam/pkgtest/issues
