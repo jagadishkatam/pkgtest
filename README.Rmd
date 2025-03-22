@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/pkgtest)](https://CRAN.R-project.org/package=pkgtest)
+[![Codecov test coverage](https://codecov.io/gh/jagadishkatam/pkgtest/graph/badge.svg)](https://app.codecov.io/gh/jagadishkatam/pkgtest)
 <!-- badges: end -->
 
 The goal of pkgtest is to ...
