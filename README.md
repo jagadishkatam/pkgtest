@@ -9,6 +9,8 @@
 status](https://www.r-pkg.org/badges/version/pkgtest)](https://CRAN.R-project.org/package=pkgtest)
 ![Codecov](https://img.shields.io/codecov/c/github/jagadishkatam/pkgtest)
 
+[![Launch
+binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jagadishkatam/pkgtest/master)
 <!-- badges: end -->
 
 The goal of pkgtest is to …
